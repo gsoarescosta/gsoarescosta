@@ -23,4 +23,9 @@
 
 ##
 
+<a href="https://www.linkedin.com/in/gsoarescosta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/11672786/gabriel"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href="https://www.twitch.tv/gabasc"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://steamcommunity.com/id/gabagsc/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+
 ![Snake Animation](https://github.com/gsoarescosta/gsoarescosta/blob/output/github-contribution-grid-snake.svg)
