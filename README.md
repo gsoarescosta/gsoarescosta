@@ -37,7 +37,7 @@
   <a href="https://app.daily.dev/gsoarescosta"><img src="https://img.shields.io/badge/daily.dev-151618?style=for-the-badge&logo=dailydotdev&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/11672786/gabriel"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
   <br/><br/>
-  <a href="https://app.daily.dev/gsoarescosta"><img src="https://api.daily.dev/devcards/v2/DCehf6DbHEOgN0Sn9kEgA.png?type=default&r=uhv" width="356" alt="Gabs's Dev Card"/></a>
+  <a href="https://app.daily.dev/gsoarescosta"><img src="./devcard.png" width="356" alt="Gabs's Dev Card"/></a>
 </div>
 
 <div align="center">
